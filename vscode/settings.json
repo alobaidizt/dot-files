@@ -1,0 +1,49 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.tabSize": 2,
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    },
+
+    "editor.acceptSuggestionOnCommitCharacter": true,
+
+    "editor.acceptSuggestionOnEnter": "on",
+
+    "editor.quickSuggestionsDelay": 10,
+
+    "editor.suggestOnTriggerCharacters": true,
+
+    "editor.tabCompletion": "off",
+
+    "editor.suggest.localityBonus": true,
+
+    "editor.suggestSelection": "recentlyUsed",
+
+    "editor.wordBasedSuggestions": true,
+
+    "editor.parameterHints.enabled": true,
+
+    "typescript.suggest.autoimports": true,
+    "jestrunner.jestCommand": "yarn test --",
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.inlineSuggest.enabled": true,
+    "python.analysis.autoImportUserSymbols": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.stickyScroll.enabled": true,
+}
